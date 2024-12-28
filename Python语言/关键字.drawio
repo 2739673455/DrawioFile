@@ -1,0 +1,397 @@
+<mxfile host="65bd71144e">
+    <diagram id="dskb6RcOmieoiwmr7ame" name="Page-1">
+        <mxGraphModel dx="1303" dy="1101" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;verticalAlign=middle;fontColor=#FF3333;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="200" width="954" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry width="954" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="&lt;font color=&quot;#ff3333&quot;&gt;and&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="123" vertex="1">
+                    <mxGeometry width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="as" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="106" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="126" value="assert" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="212" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="break" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="318" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="128" value="class" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="424" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="129" value="continue" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="530" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="130" value="def" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="636" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="131" value="del" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="742" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="132" value="elif" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="123" vertex="1">
+                    <mxGeometry x="848" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="40" width="954" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="逻辑运算符，与" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="创建别名" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="106" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="用于调试" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="212" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="跳出循环" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="318" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="定义类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="424" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="继续循环的下一个迭代" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="530" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="定义函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="636" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="删除对象" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="742" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="在条件语句中使用，等同于 else if" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="3" vertex="1">
+                    <mxGeometry x="848" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="133" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="120" width="954" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="else" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="135" value="except" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="106" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" value="False" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="212" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="137" value="finally" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="318" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="138" value="for" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="424" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="139" value="from" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="530" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="140" value="global" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="636" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="141" value="if" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="742" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="142" value="import" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="133" vertex="1">
+                    <mxGeometry x="848" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="160" width="954" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="用于条件语句" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="处理异常，发生异常时如何执行" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="106" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="布尔值，假" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="212" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="处理异常，无论是否存在异常，都将执行一段代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="318" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="创建 for 循环" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="424" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="导入模块的特定部分" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="530" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="声明全局变量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="636" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="写一个条件语句" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="742" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="导入模块" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="9" vertex="1">
+                    <mxGeometry x="848" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="153" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="240" width="954" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" value="in" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="155" value="is" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="106" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="156" value="lambda" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="212" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="157" value="None" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="318" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="158" value="nonlocal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="424" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="159" value="not" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="530" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="160" value="or" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="636" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="161" value="pass" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="742" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="162" value="raise" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="153" vertex="1">
+                    <mxGeometry x="848" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="280" width="954" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="检查列表、元组等集合中是否存在某个值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="测试两个变量是否相等" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="106" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="创建匿名函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="212" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="表示 null 值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="318" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="声明非局部变量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="424" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="逻辑运算符，非" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="530" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="逻辑运算符，或" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="636" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="一条什么都不做的语句" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="742" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="产生异常" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="15" vertex="1">
+                    <mxGeometry x="848" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="163" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="360" width="954" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="164" value="return" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="163" vertex="1">
+                    <mxGeometry width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="165" value="True" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="163" vertex="1">
+                    <mxGeometry x="106" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="166" value="try" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="163" vertex="1">
+                    <mxGeometry x="212" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="167" value="while" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="163" vertex="1">
+                    <mxGeometry x="318" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="168" value="with" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="163" vertex="1">
+                    <mxGeometry x="424" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="169" value="yield" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#FF3333;" parent="163" vertex="1">
+                    <mxGeometry x="530" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="170" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="163" vertex="1">
+                    <mxGeometry x="636" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="171" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="163" vertex="1">
+                    <mxGeometry x="742" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="172" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="163" vertex="1">
+                    <mxGeometry x="848" width="106" height="40" as="geometry">
+                        <mxRectangle width="106" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="2" vertex="1">
+                    <mxGeometry y="400" width="954" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="退出函数并返回值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="布尔值，真" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="106" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="try...except 语句" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="212" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="创建 while 循环" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="318" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="用于简化异常处理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="424" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="结束函数，返回生成器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="530" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="636" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="742" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="21" vertex="1">
+                    <mxGeometry x="848" width="106" height="80" as="geometry">
+                        <mxRectangle width="106" height="80" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

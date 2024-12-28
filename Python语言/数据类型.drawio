@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="BgPkfIWkJrLLFXelnyS2" name="Page-1">
+        <mxGraphModel dx="147" dy="124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="bool（布尔）&lt;br&gt;True/False" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="254" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="String（字符串）&lt;br&gt;&quot;hello&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="264" y="254" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="List（列表）&lt;br&gt;[1,1,2,3]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="413" y="254" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Tuple（元组）&lt;br&gt;(1,1,2,3)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="312" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Dictionary（字典）&lt;br&gt;{key:value}" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="413" y="312" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="int（整形）&lt;br&gt;1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="198" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="complex（复数）&lt;br&gt;1+3j" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="413" y="198" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="float（浮点型）&lt;br&gt;1.1" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="264" y="198" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Set（集合）&lt;br&gt;{1,2,3}" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="264" y="312" width="120" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
