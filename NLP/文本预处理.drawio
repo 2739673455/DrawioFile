@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="qyiX_-vmZgCVNAv-j8iQ" name="Page-1">
+        <mxGraphModel dx="1711" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="42" y="32" width="394" height="131" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="[&#39;刚出&#39;, &#39;锅&#39;, &#39;的&#39;, &#39;馒头&#39;, &#39;一块钱&#39;, &#39;一个&#39;, &#39;！&#39;]&lt;br&gt;" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontSize=20;" vertex="1" parent="6">
+                    <mxGeometry x="4" y="91" width="390" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&quot;刚出锅的馒头一块钱一个！&quot;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;fontSize=20;" vertex="1" parent="6">
+                    <mxGeometry width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=classic;html=1;entryX=0.386;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="127" y="40" as="sourcePoint"/>
+                        <mxPoint x="127.00000000000023" y="91.19999999999993" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
