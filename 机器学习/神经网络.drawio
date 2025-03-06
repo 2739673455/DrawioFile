@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="2Ub7gTJI8jkP3A7x9zTG" name="Page-1">
-        <mxGraphModel dx="698" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+        <mxGraphModel dx="1498" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1879,7 +1879,7 @@
                     <mxGeometry x="2912.136666666666" y="1569" as="geometry"/>
                 </mxCell>
                 <mxCell id="1117" value="Softmax" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
-                    <mxGeometry x="1883" y="1085" width="170" height="60" as="geometry"/>
+                    <mxGeometry x="1883" y="1093" width="170" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="1118" value="Cross Entropy Loss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
                     <mxGeometry x="2542" y="1090" width="370" height="60" as="geometry"/>
